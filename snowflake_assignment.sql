@@ -1,4 +1,4 @@
--- ============================================================
+edited-- ============================================================
 -- SNOWFLAKE TUTORIAL ASSIGNMENT
 -- Student: Shubhangi Prasad
 -- Database: COLLEGE_DB
